@@ -7,7 +7,7 @@
 ```
 2> ussd:start().
 ```
-# USSD Packing
+### USSD Packing
 ```
 3> ussd:pack("Hello").
 ```
